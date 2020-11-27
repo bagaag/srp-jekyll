@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Original Funk Rock in Worcester, MA
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/band-photos/srp.jpg"
 feature_text: |
-  ## Hello world
+  # Secret Rhythm Project
 ---
 
-There isn't much going on here yet, but watch this space
+Secret Rhythm Project has been playing together in some form for more than 20 years. The current line-up has been together since 2017 and plays regularly in the Worcester and Boston areas. The band deftly mixes improvisational funk-rock with neatly packaged songs, filling a space somewhere between Black Sabbath and Parliament-Funkadelic.
