@@ -1,5 +1,5 @@
 ---
-title: Original Funk Rock in Worcester, MA
+title: Eclectic Original Rock<br>Worcester, MA
 layout: page
 feature_image: "/assets/band-photos/srp.jpg"
 feature_text: |

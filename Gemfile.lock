@@ -113,10 +113,11 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   alembic-jekyll-theme (~> 4.0)
   jekyll (~> 4.1)
 
 BUNDLED WITH
-   2.1.4
+   2.2.0

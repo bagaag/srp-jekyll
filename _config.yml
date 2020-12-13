@@ -57,3 +57,10 @@ collections:
     feature_image: "/assets/band-photos/srp.jpg"
     feature_text: |
       # Secret Rhythm Project
+  shows:
+    title: Live Recordings
+    output: true
+    description: "Listen to Past Gigs"
+    feature_image: "/assets/band-photos/srp.jpg"
+    feature_text: |
+      # Secret Rhythm Project
