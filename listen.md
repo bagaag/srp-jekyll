@@ -28,7 +28,7 @@ feature_text: |
 
 <figure><figcaption>West Of Worcester * <a href="/assets/music/SRP_Singles_West-Of-Worcester.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_West-Of-Worcester.mp3"></audio></figure>
 
-<figure><figcaption>Baby Aligator * <a href="/assets/music/SRP_Singles_Baby-Aligator.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Baby-Aligator.mp3"></audio></figure>
+<figure><figcaption>Baby Alligator * <a href="/assets/music/SRP_Singles_Baby-Alligator.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Baby-Alligator.mp3"></audio></figure>
 
 <figure><figcaption>My Buddy Freddie * <a href="/assets/music/SRP_Singles_My-Buddy-Freddie.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_My-Buddy-Freddie.mp3"></audio></figure>
 
