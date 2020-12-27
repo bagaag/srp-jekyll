@@ -32,7 +32,7 @@ feature_text: |
   </div>
   <div class="bandmember-content">
     <h4>Erik Laighton</h4>
-    <p><em>drums</em><br>When not saving lives as an EMT, Erik puts out a rich, complex, disciplined, rhythm. He is the pocket.</p>  
+    <p><em>drums</em><br>When not saving lives as a paramedic, Erik puts out a rich, complex, disciplined, rhythm. He is the pocket.</p>  
   </div>
 </div>
 

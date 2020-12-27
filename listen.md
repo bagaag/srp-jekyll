@@ -14,9 +14,9 @@ feature_text: |
 
 <figure><figcaption>Operate <a href="/assets/music/SRP_Singles_Operate.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Operate.mp3"></audio></figure>
 
-<figure><figcaption>Hey Baby <a href="/assets/music/SRP_Singles_Hey-Baby.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Hey-Baby.mp3"></audio></figure>
+<figure><figcaption>Hey Baby (Live) <a href="/assets/music/SRP_Singles_Hey-Baby.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Hey-Baby.mp3"></audio></figure>
 
-<figure><figcaption>Magnetic Fields <a href="/assets/music/SRP_Singles_Magnetic-Fields.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Magnetic-Fields.mp3"></audio></figure>
+<figure><figcaption>Magnetic Fields (Live) <a href="/assets/music/SRP_Singles_Magnetic-Fields.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Magnetic-Fields.mp3"></audio></figure>
 
 <figure><figcaption>Party Favors <a href="/assets/music/SRP_Singles_Party-Favors.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Party-Favors.mp3"></audio></figure>
 
@@ -24,7 +24,17 @@ feature_text: |
 
 <figure><figcaption>Another Trip Around The Sun <a href="/assets/music/SRP_Singles_Another-Trip-Around-The-Sun.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Another-Trip-Around-The-Sun.mp3"></audio></figure>
 
-## Live Recordings
+<figure><figcaption>Scary Faces * <a href="/assets/music/SRP_Singles_Scary-Faces.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Scary-Faces.mp3"></audio></figure>
+
+<figure><figcaption>West Of Worcester * <a href="/assets/music/SRP_Singles_West-Of-Worcester.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_West-Of-Worcester.mp3"></audio></figure>
+
+<figure><figcaption>Baby Aligator * <a href="/assets/music/SRP_Singles_Baby-Aligator.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_Baby-Aligator.mp3"></audio></figure>
+
+<figure><figcaption>My Buddy Freddie * <a href="/assets/music/SRP_Singles_My-Buddy-Freddie.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Singles_My-Buddy-Freddie.mp3"></audio></figure>
+
+\* with J. Brown on drums and B. Stout on bass
+
+## Live Shows
 
 **[Ralph's Diner - 2019-12-05](/shows/2019-12-05-ralphs/)**
 
