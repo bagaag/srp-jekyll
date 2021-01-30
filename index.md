@@ -1,5 +1,5 @@
 ---
-title: An eclectic blend of enduro rock and funk jazz fusion with imaginative lyrics
+title: An eclectic blend of enduro rock and funk jazz fusion
 layout: page
 feature_image: "/assets/band-photos/srp.jpg"
 feature_text: |
