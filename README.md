@@ -13,3 +13,6 @@ On Debian, nokogiri requires `sudo gem install nokogiri --platform=x86_64-linux`
 To run:
 
 	bundler exec jekyll
+
+Automatic deployment to netlify on push to master.
+
