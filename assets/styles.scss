@@ -75,19 +75,25 @@ a:focus, a:hover:focus, button:focus, button:hover:focus, .button:focus, .button
 }
 
 .feature {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  max-height: 500px;
+  overflow: hidden;
+  padding: 0;
   margin-bottom: 0;
+  background-color: black;
   border-bottom: 2px solid black;
 }
 
-.feature .container {
-  min-height: 60vh;
+#secret-rhythm-project {
+  flex: content;
+  margin-left: 2rem;
 }
 
-#secret-rhythm-project {
-  color: black;
-  background: silver;
-  opacity: .5;
-  padding: 4px 8px;
+.feature img {
+  width: 100%;
+  vertical-align: middle;
 }
 
 a.dl {
