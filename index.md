@@ -1,5 +1,5 @@
 ---
-title: An eclectic blend of enduro rock <br>and funk fusion
+title: An eclectic blend of enduro rock and funk fusion
 layout: page
 feature_image: "/assets/band-photos/srp.jpg"
 feature_text: |
