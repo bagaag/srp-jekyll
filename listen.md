@@ -7,7 +7,12 @@ feature_text: |
 ---
 
 <style>
-#playlist,audio{background:#666;width:400px;padding:20px;}
+#playlist,audio{
+  background:#666;
+  width:400px;
+  max-width: 100%;
+  padding:20px;
+}
 audio {height: 80px; }
 .active a{color:#5DB0E6;text-decoration:none;}
 #playlist { list-style: none; }
