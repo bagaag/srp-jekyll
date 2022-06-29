@@ -8,8 +8,10 @@ feature_text: |
 
 <style>
 #playlist,audio{background:#666;width:400px;padding:20px;}
+audio {height: 80px; }
 .active a{color:#5DB0E6;text-decoration:none;}
 #playlist { list-style: none; }
+#playlist li { margin-left: 0 !important; }
 .pli {
   color:#eeeedd;
   background:#333;
