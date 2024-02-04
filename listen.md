@@ -39,16 +39,6 @@ audio {height: 80px; }
 </audio>
 
 <ul id="playlist">
-	<li class="active">
-		<a href="/assets/music/SRP_Singles_GivinItUp.mp3" class="pli">
-				Givin' It Up
-		</a>
-	</li>
-	<li>
-		<a href="/assets/music/SRP_Singles_DontLookAtTheMoon.mp3" class="pli">
-				Don't Look at the Moon
-		</a>
-	</li>
 	<li>
 		<a href="/assets/music/SRP_Singles_StopSneaking.mp3" class="pli">
 				Stop Sneakin'
@@ -67,6 +57,16 @@ audio {height: 80px; }
 	<li>
 		<a href="/assets/music/SRP_Singles_Operate.mp3" class="pli">
 				Operate
+		</a>
+	</li>
+	<li class="active">
+		<a href="/assets/music/SRP_Singles_GivinItUp.mp3" class="pli">
+				Givin' It Up
+		</a>
+	</li>
+	<li>
+		<a href="/assets/music/SRP_Singles_DontLookAtTheMoon.mp3" class="pli">
+				Don't Look at the Moon
 		</a>
 	</li>
 	<li>
@@ -115,6 +115,8 @@ audio {height: 80px; }
 \+ with J. Brown on drums
 
 ## Live Shows
+
+**[The Jungle - 2024-02-02](/shows/2022-02-04-the-jungle/)**
 
 **[Ralph's Diner - 2019-12-05](/shows/2019-12-05-ralphs/)**
 

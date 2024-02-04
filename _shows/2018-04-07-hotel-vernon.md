@@ -6,7 +6,7 @@ feature_text: |
   # Secret Rhythm Project
 ---
 
-<figure><figcaption>Secret Rhythm Project, live at Hotel Vernon, 4/7/18 <a href="/assets/music/SRP_Live_Hotel-Vernon-2018-04-07.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Live_Hotel-Vernon-2018-04-07.mp3"></audio></figure>
+<figure><figcaption>Secret Rhythm Project, live at Hotel Vernon in Worcester MA, 4/7/18 <a href="/assets/music/SRP_Live_Hotel-Vernon-2018-04-07.mp3" download  class="dl"><img src="/assets/download.png" width="16"></a></figcaption><audio controls src="/assets/music/SRP_Live_Hotel-Vernon-2018-04-07.mp3"></audio></figure>
 
 ![SRP @ Hotel Vernon 4/7/2018 Poster](/assets/posters/2018-04-07-hotel-vernon.jpg)
 
