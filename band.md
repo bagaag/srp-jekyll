@@ -12,7 +12,7 @@ feature_text: |
   </div>
   <div class="bandmember-content">
     <h4>Scott Smyers</h4>
-    <p><em>frontman, rhythm guitar</em><br>Rocker-poet Scott Smyers enjoys counting frogs when he's not rocking his Peavey 5150.</p>  
+    <p><em>frontman, rhythm guitar</em></p>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ feature_text: |
   </div>
   <div class="bandmember-content">
     <h4>Kevin Crowley</h4>
-    <p><em>lead guitar</em><br>Having started SRP with Scott more than 20 years ago, Kevin emits blasts of lead guitar between meditative funk rhythms.</p>  
+    <p><em>lead guitar</em></p>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ feature_text: |
   </div>
   <div class="bandmember-content">
     <h4>Erik Laighton</h4>
-    <p><em>drums</em><br>When not saving lives as a paramedic, Erik puts out a rich, complex, disciplined, rhythm. He is the pocket.</p>  
+    <p><em>drums</em></p>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ feature_text: |
     <img src="/assets/band-photos/matt.png" alt="Matt Wiseley">
   </div>
   <div class="bandmember-content">
-    <h4>Matt Wiseley - bass</h4>
-    <p>Filling out the bottom end on a bass he bought for two packs of cigarettes in 1998, Matt injects the junk into the funk.</p>
+    <h4>Matt Wiseley</h4>
+    <p><em>bass</em></p>
   </div>
 </div>

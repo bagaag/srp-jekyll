@@ -1,5 +1,8 @@
 # Secret Rhythm Project band website
 
+HEY: Make sure not to commit files > 50MB. They get rejected from Github and it's a huge pain in the ass.
+
+
 Jekyll static site with [Alembic](https://alembic.darn.es/#as-a-jekyll-theme) theme hosted on [Netflify](https://netflify.com) as [secretrhythm.com](https://secretrhythm.com).
 
 ## Setup

@@ -116,6 +116,8 @@ audio {height: 80px; }
 
 ## Live Shows
 
+**[Hotel Vernon - 2024-08-23](/shows/2024-08-23-hotel-vernon/)**
+
 **[The Jungle - 2024-02-02](/shows/2022-02-04-the-jungle/)**
 
 **[Ralph's Diner - 2019-12-05](/shows/2019-12-05-ralphs/)**
