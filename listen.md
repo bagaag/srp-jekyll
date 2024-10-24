@@ -40,6 +40,21 @@ audio {height: 80px; }
 
 <ul id="playlist">
 	<li>
+		<a href="/assets/music/SRP_Demo_Stranger.mp3" class="pli">
+				Stranger (demo)
+		</a>
+	</li>
+	<li>
+		<a href="/assets/music/SRP_Demo_FiveLeggedHorse.mp3" class="pli">
+				Five Legged Horse (demo)
+		</a>
+	</li>
+	<li>
+		<a href="/assets/music/SRP_Demo_MarchOfDoom.mp3" class="pli">
+				March of Doom (demo)
+		</a>
+	</li>
+	<li>
 		<a href="/assets/music/SRP_Singles_StopSneaking.mp3" class="pli">
 				Stop Sneakin'
 		</a>
