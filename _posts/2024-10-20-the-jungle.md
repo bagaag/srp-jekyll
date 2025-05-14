@@ -8,7 +8,7 @@ feature_text: |
   # Secret Rhythm Project
 ---
 
-![SRP @ Hotel Vernon 8/23/2024](/assets/posters/2024-11-02-the-jungle.jpg)
+![SRP @ The Jungle 8/23/2024](/assets/posters/2024-11-02-the-jungle.jpg)
 
 Date: Saturday, November 2nd, 2024
 
